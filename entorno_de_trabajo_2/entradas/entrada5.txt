@@ -1,0 +1,16 @@
+Carlos	Perez	M	25	10	1980	carlosp	Carlos.el.1
+Luis	Perez	M	05	10	1990	lperez	pereZ.02
+Ana	Ramos	F	23	11	2000	aramos	Anita2311
+Carla	Rizzo	F	13	09	1993	carriz	carRriz.07
+Leandro	Rizzo	M	14	01	1994	lrizzo	l14r1
+Juan	Garcia	M	04	10	1984	jgarcia	JuanG..12
+Luis	Soria	M	15	04	1999	lsoria	ls.,1520
+Nicolas	Lema	M	03	06	1995	nlema	gh32.NTR
+Lucia	Gimenez	F	05	05	1998	luciag	luci;gim
+Mia	Siri	F	30	02	2001	msiri	si_miria
+Claudia	Ferro	F	13	12	1997	claufer	.claufer.
+Luisa	Reina	F	20	07	1996	lreina	L.R.VSN6
+Emma	Lazza	F	15	3	2000	emmal	e.l.3.15
+Irma	Cat	F	4	12	1998	irmac	IC.1298
+Jose	Iglesia	M	30	11	1994	josei	jo.94.IG
+Manuel	Lima	M	11	12	1992	mlima	Ma.Li.11		
