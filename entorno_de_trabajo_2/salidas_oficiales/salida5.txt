@@ -1,0 +1,104 @@
+Carlos,Perez
+M,25/10/1980,25/10/80
+carlosp
+Carlos.el.1
+Obs: incluye nombre, apellido y/o usuario
+---
+Luis,Perez
+M,05/10/1990,5/10/90
+lperez
+pereZ.02
+Obs: incluye nombre, apellido y/o usuario
+---
+Ana,Ramos
+F,23/11/2000,23/11/00
+aramos
+Anita2311
+Obs: sin caracter distinto de letra o digito
+Obs: incluye parte de la fecha de nacimiento
+---
+Carla,Rizzo
+F,13/09/1993,13/9/93
+carriz
+carRriz.07
+---
+Leandro,Rizzo
+M,14/01/1994,14/1/94
+lrizzo
+l14r1
+Obs: sin caracter distinto de letra o digito
+Obs: sin letra mayuscula
+Obs: no tiene entre 8 y 12 caracteres
+Obs: incluye parte de la fecha de nacimiento
+---
+Juan,Garcia
+M,04/10/1984,4/10/84
+jgarcia
+JuanG..12
+Obs: incluye nombre, apellido y/o usuario
+---
+Luis,Soria
+M,15/04/1999,15/4/99
+lsoria
+ls.,1520
+Obs: sin letra mayuscula
+---
+Nicolas,Lema
+M,03/06/1995,3/6/95
+nlema
+gh32.NTR
+---
+Lucia,Gimenez
+F,05/05/1998,5/5/98
+luciag
+luci;gim
+Obs: sin letra mayuscula
+Obs: sin digito
+---
+Mia,Siri
+F,30/02/2001,30/2/01
+msiri
+si_miria
+Obs: sin letra mayuscula
+Obs: sin digito
+---
+Claudia,Ferro
+F,13/12/1997,13/12/97
+claufer
+.claufer.
+Obs: sin letra mayuscula
+Obs: sin digito
+Obs: incluye nombre, apellido y/o usuario
+---
+Luisa,Reina
+F,20/07/1996,20/7/96
+lreina
+L.R.VSN6
+Obs: sin letra minuscula
+---
+Emma,Lazza
+F,15/3/2000,15/3/00
+emmal
+e.l.3.15
+Obs: sin letra mayuscula
+Obs: incluye parte de la fecha de nacimiento
+---
+Irma,Cat
+F,4/12/1998,4/12/98
+irmac
+IC.1298
+Obs: sin letra minuscula
+Obs: no tiene entre 8 y 12 caracteres
+Obs: incluye parte de la fecha de nacimiento
+---
+Jose,Iglesia
+M,30/11/1994,30/11/94
+josei
+jo.94.IG
+Obs: incluye parte de la fecha de nacimiento
+---
+Manuel,Lima
+M,11/12/1992,11/12/92
+mlima
+Ma.Li.11
+---
